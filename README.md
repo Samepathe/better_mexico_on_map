@@ -11,7 +11,7 @@
 - [Samaël](https://discordapp.com/users/1051179415893196861/)
 - iAbokai
 - [Alterion Corp Discord](https://discord.gg/TBuEKJVtJc)
-- [Alterion Corp Tebex]([https://discord.gg/TBuEKJVtJc](https://alterion-corp.tebex.io/)
+- [Alterion Corp Tebex](https://alterion-corp.tebex.io/)
 
 
 
