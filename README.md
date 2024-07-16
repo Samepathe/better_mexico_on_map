@@ -12,3 +12,5 @@
 - iAbokai
 - [Alterion Corp]([[https://pages.github.com/](https://discordapp.com/users/1051179415893196861/](https://discord.gg/TBuEKJVtJc)
 
+This site was built using [GitHub Pages](https://pages.github.com/).
+
